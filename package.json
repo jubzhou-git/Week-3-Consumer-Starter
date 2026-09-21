@@ -5,11 +5,12 @@
   "dependencies": {
     "expo": "~57.0.24",
     "expo-status-bar": "~57.0.1",
+    "group6-component-library": "github:haoliusi/group6-component-library#v2.0.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-native": "0.86.3",
-    "react-native-web": "^0.21.2",
-    "group6-component-library": "github:haoliusi/group6-component-library#v1.0.0"
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-web": "^0.21.2"
   },
   "scripts": {
     "start": "expo start",
